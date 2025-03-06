@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hakim-emas.github.io/meong/Rahasia-di-Balik-Lucky-Neko-Simbol-Hoki-atau-Sekedar-Mitos-Hakim4d.html/sitemap.xml
